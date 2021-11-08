@@ -1,0 +1,7 @@
+{
+    "name": "a",
+    "dependencies": {
+        "react": "^17.0.2",
+        "b": "workspace:*"
+    }
+}
